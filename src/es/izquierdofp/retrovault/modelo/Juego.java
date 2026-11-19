@@ -27,6 +27,11 @@ public class Juego {
         this.estado = estado;
     }
 
+    public Juego() {
+    }
+    
+    
+
     public int getId() {
         return id;
     }
